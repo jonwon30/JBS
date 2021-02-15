@@ -6,7 +6,7 @@ Autodidact web developer.
 Certificates on HTML, CSS, JavaScript, Jquery & PHP. 
 Completed a 5 week uni course with Leeds Trinity University.
 
-Currently working on Sass & JavaScript teaching tools.
+Currently learning Sass, JavaScript & Bootstrap.
 
 Been practising code since April 2020 and looking for my first role in this field.
 
