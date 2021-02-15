@@ -1,5 +1,5 @@
 # JBS
-About me+
+About me
 
 Autodidact web developer. 
 
