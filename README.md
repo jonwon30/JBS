@@ -1,8 +1,9 @@
 # JBS
 About me+
 
-Hi there 👋 I'm John
+Autodidact web developer. 
 
+Certificates on HTML, CSS, JavaScript, Jquery & PHP. 
+Completed a 5 week uni course with Leeds Trinity University.
 
-Languages and Tools:
-css3 html5 javascript
+Been practising code since April 2020 and looking for my first role in this field.
