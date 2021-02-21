@@ -16,4 +16,4 @@ Been practising code since April 2020 and looking for my first role in this fiel
 
 [JBS github static website](https://jonwon30.github.io/JBS-Developer-Profile/)
 
-[CodePens] (https://codepen.io/jonstapy)
+[CodePens](https://codepen.io/jonstapy)
